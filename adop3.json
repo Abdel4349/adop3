@@ -71,44 +71,16 @@
     "Main":[
 					
 					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
-						"type":"false"
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
 					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"afVnQoR4XsE",
-						"type":"true"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"afVnQoR4XsE",
-						"type":"true"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"type":"false"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks01.webp",
-						"link"   :"afVnQoR4XsE",
-						"type":"true"
-					},
-					{
-						"picture":"https://maaid92.github.io/freefireassets/tricks02.webp",
-						"link"   :"https://play.google.com/store/search?q=Akulaku&c=apps",
-						"type":"false"
+	    {
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
 					}
 	],
 
